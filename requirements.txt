@@ -1,3 +1,8 @@
-numpy
-pandas
-matplotlib
+
+numpy==1.23.5
+scipy==1.10.1
+matplotlib==3.6.0
+pandas==1.5.3
+scikit-learn==1.1.2
+jupyter==1.0.0
+filterpy==1.4.5
